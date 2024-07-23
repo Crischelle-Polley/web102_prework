@@ -23,7 +23,11 @@ body {
     display: flex;
     gap: 0.5rem;
     flex-direction: row-reverse;
-    align-items: center;
+    align-items: stretch;
+}
+
+#top-games {
+    flex-direction: row;
 }
 
 .stats-card {
