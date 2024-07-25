@@ -2,7 +2,7 @@
 
 Submitted by: **Crischelle Polley**
 
-**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster that displays information about the games they have funded.
 
 Time spent: **25** hours spent in total
 
@@ -17,7 +17,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+<!-- * [ ] List anything else that you can get done to improve the app functionality! -->
+* [ ] A search bar for users to find specific games.
+* [ ] A navigation link to the games section.
+* [ ] A display filter to affect the how the games in the game section are shown.
+* [ ] The top games cards take the user to their game card in the game section.
+* [ ] A footer with the contact information for game developers to join Sea Monster Crowdfunding and other company information.
+* [ ] (If have time/feel like it) The game cards take user to respective game page where they can fund it.
 
 ## Video Walkthrough
 
@@ -36,6 +42,22 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 * Setting up dev tools to debug and view webpage.
+    * I used the Visual Studio Code IDE and node.js to edit my webpage. It was not reliable to use these for debugging, so I decided to use my browser instead.
+
+* Changing the layout of the index page.
+    * During my process, I realized I wanted to redo the layout of the index to better implement the layout I designed.
+      I had broken down the layout to 3 sections: the header, the company's description and information (stats), and the games.
+      
+        * The header includes the redesigned logo, title of the page, a search bar for users to find specific games, and a navigation link which takes users
+    to the games section.
+        * The description and stats is the original description container and stats container combined into one section.
+        * The games are also the original games container.
+
+* Understanding how CSS affects the HTML.
+    * Positioning the html elements was the biggest challenge. In the CSS, I used a grid and subgrid display, which allows for 2D manipulation of the layout.
+  Redoing the entire layout enabled me to work closely with grid properties and inheritance for the children of the sections.
+    * After positioning, I also had to carefully determine the sizing unit to use throughout the page. With sizing, I took into consideration user
+  choice (page adjustment), inheritance, and consistency.
 
 ## License
 
