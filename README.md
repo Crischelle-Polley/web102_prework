@@ -4,7 +4,7 @@ Submitted by: **Crischelle Polley**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster that displays information about the games they have funded.
 
-Time spent: **25** hours spent in total
+Time spent: **35** hours spent in total
 
 ## Required Features
 
