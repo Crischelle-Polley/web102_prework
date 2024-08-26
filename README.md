@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+<!-- https://i.imgur.com/LSnKdxf.gif -->
 
 ![walkthrough](https://github.com/user-attachments/assets/c237a1d0-4ce3-4f78-a9c9-fa5839cc8331)
 
