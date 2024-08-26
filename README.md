@@ -1,23 +1,26 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
 Submitted by: **Crischelle Polley**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster that displays information about the games they have funded.
 
-Time spent: **15** hours spent in total
+Time spent: **40** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+<!-- * [ ] List anything else that you can get done to improve the app functionality! -->
+* [x] A search bar for users to find specific games.
+* [x] A navigation link to the games section.
+* [x] The top games cards take the user to their game card in the game section.
 
 ## Video Walkthrough
 
@@ -26,7 +29,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,6 +38,25 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Setting up dev tools to debug and view webpage.
+    * I used the Visual Studio Code (VS Code) IDE and node.js to edit my webpage. It was not reliable to use these for debugging, so I decided to use the Windows DevTools.
+    * Windows DevTools combined with the VS Code extension Live Server showed real-time updates of my site, and DevTools outlined the elements 
+
+* Changing the layout of the index page.
+    * During my process, I realized I wanted to redo the layout of the index to better implement the layout I designed.
+      I had broken down the layout to 3 sections: the header, the company's description and information (stats), and the games.
+      
+        * The header includes a redesigned logo, and a search bar for users to find specific games.
+        * The description and stats is the original description container and stats container combined into one section.
+        * The games are also the original games container.
+     
+     * The layout was changed multiple times as I studied design theory and tried to implement its principles.
+
+* Understanding how CSS affects the HTML.
+    * Positioning the html elements was the biggest challenge. In the CSS, I used grid and flex display. Redoing the entire layout enabled me to work closely with grid and flex properties as well as inheritance between parent and children elements.
+
+    * After positioning, I also had to carefully determine the sizing unit to use throughout the page. With sizing, I took into consideration user
+  choice (page adjustment), inheritance, and consistency.
 
 ## License
 
