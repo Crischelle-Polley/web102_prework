@@ -26,10 +26,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-https://www.youtube.com/watch?v=-55ErHtv71I
+<img src='https://imgur.com/a/web102-prework-walkthrough-q9FysfA' title='Video Walkthrough' width='' alt='Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with [ClipChamp] for Windows.
+GIF created with [LiceCap] for Windows.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
