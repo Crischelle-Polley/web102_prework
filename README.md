@@ -4,7 +4,7 @@ Submitted by: **Crischelle Polley**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster that displays information about the games they have funded.
 
-Time spent: **35** hours spent in total
+Time spent: **40** hours spent in total
 
 ## Required Features
 
@@ -18,11 +18,9 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 <!-- * [ ] List anything else that you can get done to improve the app functionality! -->
-* [ ] A search bar for users to find specific games.
+* [x] A search bar for users to find specific games.
 * [x] A navigation link to the games section.
-* [ ] A display filter to affect the how the games in the game section are shown.
 * [x] The top games cards take the user to their game card in the game section.
-* [ ] A footer with the contact information for game developers to join Sea Monster Crowdfunding and other company information.
 
 ## Video Walkthrough
 
@@ -31,7 +29,7 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
