@@ -26,7 +26,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='(https://www.youtube.com/watch?v=-55ErHtv71I)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://www.youtube.com/watch?v=-55ErHtv71I
 
 <!-- Replace this with whatever GIF tool you used! -->
