@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Imgur](https://i.imgur.com/K2dEKOa.gif)
+![Imgur](https://i.imgur.com/LSnKdxf.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [LiceCap] for Windows.
@@ -34,8 +34,6 @@ GIF created with [LiceCap] for Windows.
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
-Ran into issues with creating gif. Cannot properly show features.
 
 ## Notes
 
